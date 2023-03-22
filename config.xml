@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+
+    <Script_MySQL ConType="dir">/Users/user/Desktop/mysql</Script_MySQL>
+
+    <Script_PostgreSQL ConType="dir">/Users/user/Desktop/postgres</Script_PostgreSQL>
+
+</Config>
